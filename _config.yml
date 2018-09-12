@@ -1,0 +1,47 @@
+# Site settings
+title: Enchanted Website
+description:
+keywords:
+author: Peranakan Francis
+baseurl: ""
+url: "https://jekyll-modernblog.surge.sh"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-import
+  - jekyll-sitemap
+  - jekyll-assets
+  - jekyll-menus
+  - jekyll-archives
+compress_html:
+  clippings: all
+  comments: [ "<!-- ", " -->" ]
+social:
+  name: peranakafrancis
+  links:
+    - https://twitter.com/peranakafrancis
+    - https://www.facebook.com/peranakafrancis
+    - https://www.linkedin.com/in/peranakafrancis
+    - https://plus.google.com/+peranakafrancis
+    - https://github.com/peranakafrancis
+    - https://keybase.io/peranakafrancis
+    - https://wa.me/60142137507
+    - https://m.me/peranakafrancis
+twitter:
+  username: peranakanfrancis
+  card: summary
+profile: true
+incremental: true
+livereload: true
+time_zone: Asia/Katmandul
+destination: public
+source:
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+hightlighter: rouge
+sass:
+  sass_dir:
+  style: compressed
+excludes: [ README.md, node_modules, Gemfile* ]
