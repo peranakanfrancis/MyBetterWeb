@@ -1,0 +1,43 @@
+---
+title: "Paid Search Marketing"
+subtitle: "higher return on investment"
+author: "Peranakan Francis"
+avatar: "img/authors/author.jpg"
+image: "img/paid-ads/jumbotron.jpg"
+date: "2018-06-01 12:12:12"
+---
+
+"MyBetterWeb helped us set up the campaign, build highly converting landing pages and they manage our campaigns constantly. We get many of leads a month and couldn't be happier with their service!" - <a href="https://trekkingtopnepal.com" target="_blank"><i>trekkingtopnepal.com</i></a>
+
+- Keyword Research for a Solid Foundation
+- Competitor Campaign Analysis
+- Campaign Creation and Ad Copy Creation
+- Landing Page Design and Development
+- Detailed Reporting and Monthly Meeting
+
+## Detailed monthly ads reports
+At MyBetterWeb we manage your Facebook & Google Ads account targeting the keywords that will drive buyers to your site. Highly focused keyword research will determine the most cost-effective approach to obtaining customers who are searching for exactly what you offer. Through the various research tools we use, we will develop effective paid search campaigns focused on meeting your target cost per sale or lead.
+
+## eCommerce focused ads strategies that drive sales
+By investing in paid ads, you will assist highly eager buyers in finding your site who wouldn't necessarily find it through organic search engine optimization techniques. Our end goal is to create an campaign with a high ROI (return on investment) that allows your company to spend wisely and grow profitable month after month.
+
+### How does AdWords campaign management work?
+**1. Paid Campaign Analysis & Implementation**
+
+With an established Ads account we will analyze historical data to find what performs most favorably, and tailor other parts to perform in a similar fashion. We will then change bidding options, keywords, ad text, and destination links to align with our goals. The goal is to drive as many leads and/or sales as possible per dollar spent.
+
+**2. Conversion Tracking & ROI Analysis**
+
+Our reports show which keywords are creating leads or sales and which are not. We monitor this to be sure we are focusing on the keywords that are working best and targeting specific phrases.
+
+**3. Search Network Advertising**
+
+We monitor progress and engagement of your search network advertising to adjust bigs, ads, and keywords to best reflect the traffic that will engage most positively on your site.
+
+**4. Ad Variation & Testing**
+
+Multiple ads will be tested using A/B testing methods to determine which ads lead to the highest click-through and conversion rates. We will also develop landing pages, copy variations and test which work best.
+
+**5. Monthly Maintenance**
+
+All aspects of the account will be reviewed each month to determine what areas can be improved and to be sure the campaign is running smoothly. Negative keywords and changes to your keywords will constantly be made to improve results.

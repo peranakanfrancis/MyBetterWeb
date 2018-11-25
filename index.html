@@ -13,8 +13,19 @@ layout: compress
     <meta name="author" content="{{ site.author }}"/>
     <link rel="shortcut icon" href="img/favicon.ico">
     <link rel="stylesheet" type="text/css" href="css/normalize.css"/>
-    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/7e1bd8a852.css">
     <link rel="stylesheet" type="text/css" href="css/modern-blog.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <script src="https://use.fontawesome.com/1a01af5232.js"></script>
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5bfab345a0286b00115a8e3a&product=gdpr-compliance-tool' async='async'></script>
+
+    <meta property="og:type" content="business.business">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta property="og:site_name" content="MyBetterWeb">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="img/logo.jpg">
+
     <!--[if IE]>
     <script type="text/javascript" src="js/vendors/html5.min.js"></script>
     <![endif]-->
@@ -26,38 +37,36 @@ layout: compress
     </script>
 </head>
 <body class="body">
-<div class="container">
-    <header class="header">
-        <h1>{{ site.title }}<span>{{ site.description }}</span></h1>
-        <nav class="links">
-            <a href="https://twitter.com/peranakanfrancis" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-            <a href="https://linkedin.com/in/peranakanfrancis" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
-            <a href="https://facebook.com/peranakanfrancis" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
-            <a href="https://instagram.com/peranakanfrancis" target="_blank"><i class="fa fa-instagram fa-2x"></i>
-            <a href="https://github.com/peranakanfrancis" target="_blank"><i class="fa fa-git fa-2x"></i></a>
-            <a href="https://m.me/peranakanfrancis" target="_blank"><i class="fa fa-messenger fa-2x"></i></a>
-            <a href="https://wa.me/60142137507" target="_blank"><i class="fa fa-whatsapp fa-2x"></i></a>
-        </nav>
-    </header>
-    <!-- Load Facebook SDK for JavaScript -->
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-  </script>
+  <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
-<!-- Chat code -->
-  <div class="fb-customerchat"
+<!-- Customer chat code -->
+<div class="fb-customerchat"
   attribution=setup_tool
   page_id="174232626689932"
-  theme_color="#0084ff"
   logged_in_greeting="Hi! How can I help you?"
   logged_out_greeting="Hi! How can I help you?">
 </div>
+<div class="container">
+    <header class="header">
+        <h1><img src="img/logo.png" alt="company logo" class="img-center">
+          <span>{{ site.slogan }}</span></h1>
+        <nav class="links">
+            <a href="https://facebook.com/peranakanfrancis" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
+            <a href="https://twitter.com/peranakanfrancis" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+            <a href="https://instagram.com/peranakanfrancis" target="_blank"><i class="fa fa-instagram fa-2x"></i>
+            <a href="https://linkedin.com/in/peranakanfrancis" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
+            <a href="https://github.com/peranakanfrancis" target="_blank"><i class="fa fa-git fa-2x"></i></a>
+            <!-- <a href="https://wa.me/60142137507" target="_blank"><i class="fa fa-whatsapp fa-2x"></i></a> -->
+        </nav>
+    </header>
     <div class="content">
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>

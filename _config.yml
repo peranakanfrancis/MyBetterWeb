@@ -1,10 +1,11 @@
 # Site settings
-title: Enchanted Website
-description:
-keywords:
+title: MyBetterWeb.site
+slogan: "Website Design | eCommerce | SEO"
+description: "We build seo-optimized and mobile-friendly websites designed to perform across all devices. Generate leads or sales from customers on desktop computers or their phones."
+keywords: ""
 author: Peranakan Francis
-baseurl: ""
-url: "https://jekyll-modernblog.surge.sh"
+baseurl: "/"
+url: "https://mybetterweb.site"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
