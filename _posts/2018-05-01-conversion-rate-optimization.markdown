@@ -19,12 +19,22 @@ Through our team's expertise and analytical testing, we determine what changes y
 Understanding the connection between SEO and conversion rate is critical in any conversion optimization campaign. When searching on the web users are more likely to click and convert on results at the top. Typically, web users that go to the bottom of page 1 or to page 2, are merely "window shopping" and are not serious buyers. This connection drives down conversion rates and leads to worthless traffic. At MyBetterWeb our goal is to combine conversion rate optimization with SEO efforts to create a campaign that ranks, converts and sells your business better.
 
 ### How is conversion rate optimization works?
-1. The conversion rate optimization process is similar to a search engine optimization experience. We start by having OuterBox team members review your website and put together "red flag" items. These are issues that we understand to be major issues from the beginning.
+**1. Website audit**
 
-2. After we realize these and review them with the client, we fix the issues and move into an analytical phase.
+The conversion rate optimization process is similar to a search engine optimization experience. We start by having MyBetterWeb team members review your website and put together "red flag" items. These are issues that we understand to be major issues from the beginning.
 
-3. Analytics allow us to determine traffic and visitor patterns on your website. Typical questions we ask are, "Where are visitors leaving?", "Why are they not checking out?" and "How can we be sure they call you?".
+**2. Filter data**
 
-4. By looking at statistics we can figure out where weak spots are in your website and begin to implement improvements.
+After we realize these and review them with the client, we fix the issues and move into an analytical phase.
 
-5. It's an ongoing process of making changes, analyzing the results and continuing to increase the conversion rate month after month.
+**3. Analysis site**
+
+Analytics allow us to determine traffic and visitor patterns on your website. Typical questions we ask are, "Where are visitors leaving?", "Why are they not checking out?" and "How can we be sure they call you?".
+
+**4. Fine tuning**
+
+By looking at statistics we can figure out where weak spots are in your website and begin to implement improvements.
+
+**5. Optimize further**
+
+It's an ongoing process of making changes, analyzing the results and continuing to increase the conversion rate month after month.
