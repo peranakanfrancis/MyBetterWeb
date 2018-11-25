@@ -25,7 +25,7 @@ Utilizing the latest in development standards, security, and hosting, your data 
 
 **eCommerce & Catalog Functionality**
 
-Allow customers to purchase products or display items in catalog mode. Learn more about our Learn more on our [eCommerce web design services page](_posts/2018-09-10-ecommerce-online-shop).
+Allow customers to purchase products or display items in catalog mode. Learn more about our Learn more on our [eCommerce web design services page](https://mybetterweb.site/#/2018/09/10/ecommerce-online-shop).
 
 **Lightning Fast Speeds**
 
