@@ -35,15 +35,6 @@ layout: compress
             root.setAttribute('class', 'ff');
         :}
     </script>
-
-    <!-- Load Facebook SDK for JavaScript -->
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
 </head>
 <body class="body">
 <div class="container">
@@ -59,6 +50,41 @@ layout: compress
             <!-- <a href="https://wa.me/60142137507" target="_blank"><i class="fa fa-whatsapp fa-2x"></i></a> -->
         </nav>
     </header>
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Customer chat code -->
+    <div class="fb-customerchat"
+      attribution=setup_tool
+      page_id="174232626689932"
+      theme_color="#fa2a7b">
+    </div>
+
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '150284722314875',
+      xfbml      : true,
+      version    : 'v3.2'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
     <div class="content">
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>
@@ -102,14 +128,6 @@ layout: compress
     </div>
     <!-- /container -->
 </div>
-<!-- Customer chat code -->
-<div id="fb-root"></div>
-<div class="fb-customerchat"
-  attribution=setup_tool
-  page_id="174232626689932"
-  theme_color="#fa2a7b">
-</div>
-
 <!-- JS -->
 <script src="js/vendors/trianglify.min.js"></script>
 <script src="js/vendors/TweenMax.min.js"></script>
