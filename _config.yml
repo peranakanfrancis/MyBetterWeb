@@ -4,7 +4,7 @@ slogan: "Website Design | eCommerce | SEO"
 description: "We build seo-optimized and mobile-friendly websites designed to perform across all devices. Generate leads or sales from customers on desktop computers or their phones."
 keywords: ""
 author: Peranakan Francis
-baseurl: "/"
+baseurl: ""
 url: "https://mybetterweb.site"
 plugins:
   - jekyll-feed
