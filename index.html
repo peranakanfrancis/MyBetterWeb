@@ -34,7 +34,17 @@ layout: compress
             var root = document.getElementsByTagName('html')[0];
             root.setAttribute('class', 'ff');
         :}
+      </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129774437-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-129774437-1');
     </script>
+
 </head>
 <body class="body">
 <div class="container">
@@ -42,12 +52,13 @@ layout: compress
         <h1><img src="img/logo-transparent.png" alt="company logo" class="img-center">
           <span>{{ site.slogan }}</span></h1>
         <nav class="links">
+            <a href="https://about.mybetterweb.site" target="_blank"><i class="fa fa-address-card-o fa-2x"></i></a>
             <a href="https://www.facebook.com/peranakan.men/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
             <a href="https://twitter.com/peranakanfrancis" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+            <a href="https://github.com/peranakanfrancis" target="_blank"><i class="fa fa-github fa-2x"></i></a>
             <a href="https://instagram.com/peranakanfrancis" target="_blank"><i class="fa fa-instagram fa-2x"></i>
             <a href="https://linkedin.com/in/peranakanfrancis" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
-            <a href="https://github.com/peranakanfrancis" target="_blank"><i class="fa fa-git fa-2x"></i></a>
-            <!-- <a href="https://wa.me/60142137507" target="_blank"><i class="fa fa-whatsapp fa-2x"></i></a> -->
+            <a class="typeform-share button" href="https://peranakanfrancis1.typeform.com/to/bNlaNF" data-mode="popup" data-hide-headers=true data-hide-footer=true data-submit-close-delay="5" target="_blank"><i class="fa fa-commenting-o fa-2x"></i></a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
         </nav>
     </header>
     <!-- Load Facebook SDK for JavaScript -->
