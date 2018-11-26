@@ -3,11 +3,11 @@
     <channel>
         <title>MyBetterWeb.site</title>
         <description>We build seo-optimized and mobile-friendly websites designed to perform across all devices. Generate leads or sales from customers on desktop computers or their phones.</description>
-        <link>http://localhost:4000//</link>
-        <atom:link href="http://localhost:4000//feed.xml" rel="self"
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Mon, 26 Nov 2018 13:08:11 +0545</pubDate>
-        <lastBuildDate>Mon, 26 Nov 2018 13:08:11 +0545</lastBuildDate>
+        <pubDate>Mon, 26 Nov 2018 13:38:12 +0545</pubDate>
+        <lastBuildDate>Mon, 26 Nov 2018 13:38:12 +0545</lastBuildDate>
         <generator>Jekyll v3.8.5</generator>
         
         <item>
@@ -29,8 +29,8 @@
 &lt;p&gt;Marketing your website through search engine optimization (SEO) is just as important as the way your website looks and functions. SEO can have a major positive impact on your visibility and it’s important to choose a professional search marketing agency that understands search engine algorithms and is experienced in providing tangible results. We’ve helped companies increase traffic by over 500% in less than 6 months and grow sales by hundred of thousands of dollars. Our search engine optimization services (SEO), will help display your website toward the top of organic search results for the keywords most important to your specific business&lt;/p&gt;
 </description>
             <pubDate>Mon, 01 Oct 2018 17:57:12 +0545</pubDate>
-            <link>http://localhost:4000/#/2018/10/01/search-engine-optimization.html</link>
-            <guid isPermaLink="true">http://localhost:4000/#/2018/10/01/search-engine-optimization.html</guid>
+            <link>http://localhost:4000#/2018/10/01/search-engine-optimization.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/10/01/search-engine-optimization.html</guid>
             
             
         </item>
@@ -69,8 +69,8 @@
 &lt;p&gt;From advanced search engine optimization tools to running promotions, our sites are built to give you a suite of powerful marketing tools. Run BOGOs, create landing pages and drive revenue to your eCommerce website.&lt;/p&gt;
 </description>
             <pubDate>Mon, 10 Sep 2018 17:57:12 +0545</pubDate>
-            <link>http://localhost:4000/#/2018/09/10/ecommerce-online-shop.html</link>
-            <guid isPermaLink="true">http://localhost:4000/#/2018/09/10/ecommerce-online-shop.html</guid>
+            <link>http://localhost:4000#/2018/09/10/ecommerce-online-shop.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/09/10/ecommerce-online-shop.html</guid>
             
             
         </item>
@@ -100,8 +100,8 @@
 &lt;p&gt;With responsive design the need for a separate mobile site and tablet optimized website is eliminated and your website will automatically “adapt” to the device it is being viewed on. You’ll end up with a site that looks great on a mobile device, tablet, desktop computer and everything in between.&lt;/p&gt;
 </description>
             <pubDate>Mon, 13 Aug 2018 17:57:12 +0545</pubDate>
-            <link>http://localhost:4000/#/2018/08/13/responsive-website.html</link>
-            <guid isPermaLink="true">http://localhost:4000/#/2018/08/13/responsive-website.html</guid>
+            <link>http://localhost:4000#/2018/08/13/responsive-website.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/08/13/responsive-website.html</guid>
             
             
         </item>
@@ -126,15 +126,15 @@
 
 &lt;p&gt;&lt;strong&gt;eCommerce &amp;amp; Catalog Functionality&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Allow customers to purchase products or display items in catalog mode. Learn more about our Learn more on our &lt;a href=&quot;https://mybetterweb.site/#/2018/09/10/ecommerce-online-shop&quot; target=&quot;_blank&quot;&gt;eCommerce web design services page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Allow customers to purchase products or display items in catalog mode. Learn more about our Learn more on our &lt;a href=&quot;https://mybetterweb.site/#/2018/09/10/ecommerce-online-shop&quot; target=&quot;_blank&quot; class=&quot;effect-underline&quot;&gt;eCommerce web design services page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Lightning Fast Speeds&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Using the latest technology, we’ll optimize images and code to load quickly for mobile users.&lt;/p&gt;
 </description>
             <pubDate>Sun, 01 Jul 2018 17:57:12 +0545</pubDate>
-            <link>http://localhost:4000/#/2018/07/01/business-website.html</link>
-            <guid isPermaLink="true">http://localhost:4000/#/2018/07/01/business-website.html</guid>
+            <link>http://localhost:4000#/2018/07/01/business-website.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/07/01/business-website.html</guid>
             
             
         </item>
@@ -174,8 +174,8 @@
 &lt;p&gt;It’s an ongoing process of making changes, analyzing the results and continuing to increase the conversion rate month after month.&lt;/p&gt;
 </description>
             <pubDate>Fri, 01 Jun 2018 17:57:12 +0545</pubDate>
-            <link>http://localhost:4000/#/2018/06/01/conversion-rate-optimization.html</link>
-            <guid isPermaLink="true">http://localhost:4000/#/2018/06/01/conversion-rate-optimization.html</guid>
+            <link>http://localhost:4000#/2018/06/01/conversion-rate-optimization.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/06/01/conversion-rate-optimization.html</guid>
             
             
         </item>
@@ -220,8 +220,8 @@
 &lt;p&gt;All aspects of the account will be reviewed each month to determine what areas can be improved and to be sure the campaign is running smoothly. Negative keywords and changes to your keywords will constantly be made to improve results.&lt;/p&gt;
 </description>
             <pubDate>Fri, 01 Jun 2018 12:12:12 +0545</pubDate>
-            <link>http://localhost:4000/#/2018/06/01/paid-search-marketing.html</link>
-            <guid isPermaLink="true">http://localhost:4000/#/2018/06/01/paid-search-marketing.html</guid>
+            <link>http://localhost:4000#/2018/06/01/paid-search-marketing.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/06/01/paid-search-marketing.html</guid>
             
             
         </item>
