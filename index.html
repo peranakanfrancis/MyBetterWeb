@@ -61,41 +61,9 @@ layout: compress
             <a class="typeform-share button" href="https://peranakanfrancis1.typeform.com/to/bNlaNF" data-mode="popup" data-hide-headers=true data-hide-footer=true data-submit-close-delay="5" target="_blank"><i class="fa fa-commenting-o fa-2x"></i></a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
         </nav>
     </header>
-    <!-- Load Facebook SDK for JavaScript -->
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
 
-    <!-- Customer chat code -->
-    <div class="fb-customerchat"
-      attribution=setup_tool
-      page_id="174232626689932"
-      theme_color="#fa2a7b">
-    </div>
+    {% include facebook-sdk.html %}
 
-    <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '150284722314875',
-      xfbml      : true,
-      version    : 'v3.2'
-    });
-    FB.AppEvents.logPageView();
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
     <div class="content">
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>

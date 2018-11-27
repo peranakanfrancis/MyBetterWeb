@@ -44,6 +44,6 @@ Video drones are now playing a key role in reporting news stories and sports cov
 6. Download your video from our secure server.
 
 ### Edited video of Khumbu Icefall on Mt Everest
-<div class="fb-video" data-href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" data-width="660" data-show-text="false"><blockquote cite="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/">Ice glacier on Everest Base Camp, we&#039;re on the top of the world!</a><p>Climbing up on the #MtEverest and see the #IceFall and #Glaciers on #EverestBaseCamp #KhumbuIceFallTrek.
+<div class="fb-video" data-href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" data-width="640" data-show-text="false"><blockquote cite="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/">Ice glacier on Everest Base Camp, we&#039;re on the top of the world!</a><p>Climbing up on the #MtEverest and see the #IceFall and #Glaciers on #EverestBaseCamp #KhumbuIceFallTrek.
 
 #VisitNepal, #OnceisNotEnough!</p>Posted by <a href="https://www.facebook.com/oshoworldadventures/">Osho Adventure</a> on Monday, November 26, 2018</blockquote></div><br/>
