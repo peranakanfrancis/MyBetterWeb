@@ -6,7 +6,7 @@ avatar: "img/authors/author.jpg"
 image: "img/drone/jumbotron.jpg"
 date:   2018-10-10 12:12:12
 ---
-"The team did a great job! They took the footage of my project that had specific needs with narrow margin for error and nailed it and then some! They made us look great to our client!" -<a href="https://www.facebook.com/oshoworldadventures/videos/186371325604026/" target="_blank"><i> oshoadventure.com</i></a>
+"The team did a great job! They took the footage of my project that had specific needs with narrow margin for error and nailed it and then some! They made us look great to our client!" -<a href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" target="_blank"><i> domhimalaya.com</i></a>
 
 ## Expert drone video editing
 Video drone footage offers endless possibilities. Whether you’re hosting a corporate event, family party or just want to get an eagle-eye perspective on a particular location, we can help you create outstanding drone videos from your footage that will have a lasting impact on your audience.  At MyBetterWeb, we make sure your footage is edited to perfection, delivering superior quality videos and a fantastic finished product.
@@ -32,7 +32,7 @@ Video drones are now playing a key role in reporting news stories and sports cov
 5. Make full payment for the finished article.
 6. Download your video from our secure server.
 
-### Edited video of Annapurna Himalayan mountains in Nepal
+### Edited video of Khumbu Icefall on Mt Everest
 <div class="fb-video" data-href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" data-width="660" data-show-text="false"><blockquote cite="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/">Ice glacier on Everest Base Camp, we&#039;re on the top of the world!</a><p>Climbing up on the #MtEverest and see the #IceFall and #Glaciers on #EverestBaseCamp #KhumbuIceFallTrek.
 
 #VisitNepal, #OnceisNotEnough!</p>Posted by <a href="https://www.facebook.com/oshoworldadventures/">Osho Adventure</a> on Monday, November 26, 2018</blockquote></div><br/>
