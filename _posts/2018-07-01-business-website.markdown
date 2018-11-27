@@ -50,9 +50,11 @@ Allow customers to purchase products or display items in catalog mode. Learn mor
 Using the latest technology, we'll optimize images and code to load quickly for mobile users.
 
 ### [Thapa Coffee](https://thapa.coffee) is a business website.
-<a href="https://thapa.coffee" target="_blank"><img src="img/business/thapa.png" width="640">
+<div class="img">
+<a href="https://thapa.coffee" target="_blank"><img src="img/business/thapa.png" width="640"></div>
 <br/>
 
 ### [Ultranet Communication](https://ultranet.netlify.com) is a business with online shopping eCommerce site.
-<a href="https://ultranet.netlify.com" target="_blank"><img src="img/business/ultranet.png" width="640">
+<div class="img">
+<a href="https://ultranet.netlify.com" target="_blank"><img src="img/business/ultranet.png" width="640"></div>
 <br/>

@@ -46,5 +46,6 @@ As mobile and tablet traffic continues to grow at a rapid pace, the need to have
 With responsive design the need for a separate mobile site and tablet optimized website is eliminated and your website will automatically "adapt" to the device it is being viewed on. You'll end up with a site that looks great on a mobile device, tablet, desktop computer and everything in between.
 
 ### [Khimyan Curry](https://khimyan.com) is a responsive website.
-<a href="https://khimyan.com" target="_blank"><img src="img/Web-Development/khimyan.png" width="640">
+<div class="img">
+<a href="https://khimyan.com" target="_blank"><img src="img/Web-Development/khimyan.png" width="640"></div>
 <br/>
