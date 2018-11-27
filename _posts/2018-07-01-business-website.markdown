@@ -51,10 +51,10 @@ Using the latest technology, we'll optimize images and code to load quickly for 
 
 ### [Thapa Coffee](https://thapa.coffee) is a business website.
 <div class="img">
-<a href="https://thapa.coffee" target="_blank"><img src="img/business/thapa.png" width="640"></div>
+<a href="https://thapa.coffee" target="_blank"><img src="img/business/thapa.png" width="640">
 <br/>
 
 ### [Ultranet Communication](https://ultranet.netlify.com) is a business with online shopping eCommerce site.
-<div class="img">
-<a href="https://ultranet.netlify.com" target="_blank"><img src="img/business/ultranet.png" width="640"></div>
+<a href="https://ultranet.netlify.com" target="_blank"><img src="img/business/ultranet.png" width="640">
 <br/>
+</div>
