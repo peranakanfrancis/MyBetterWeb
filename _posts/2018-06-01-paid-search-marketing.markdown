@@ -7,7 +7,7 @@ image: "img/paid-ads/jumbotron.jpg"
 date: "2018-06-01 12:12:12"
 ---
 
-"MyBetterWeb helped us set up the campaign, build highly converting landing pages and they manage our campaigns constantly. We get many of leads a month and couldn't be happier with their service!" - <a href="https://trekkingtopnepal.com" target="_blank"><i>trekkingtopnepal.com</i></a>
+"We were looking for a firm which could handle our full online marketing campaign. They managed PPC, SEO and SMO for us. Since then our online booking has increased considerably. We recommend MyBetterWeb for online marketing" -<a href="http://nyornyar.com.my/" target="_blank"><i> nyornyar.com.my</i></a>
 
 - Keyword Research for a Solid Foundation
 - Competitor Campaign Analysis

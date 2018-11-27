@@ -6,7 +6,8 @@ avatar: "img/authors/author.jpg"
 image: "img/amp/jumbotron.jpg"
 date:   2018-05-10 12:12:12
 ---
-"We were looking for a firm which could handle our full online marketing campaign. They managed PPC, SEO and SMO for us. Since then our online booking has increased considerably. We recommend MyBetterWeb for online marketing" -<a href="http://nyornyar.com.my/" target="_blank"><i> nyornyar.com.my</i></a>
+
+"MyBetterWeb helped us set up the campaign, build highly converting landing pages and they manage our campaigns constantly. We get many of leads a month and couldn't be happier with their service!" - <a href="https://trekkingtopnepal.com" target="_blank"><i>trekkingtopnepal.com</i></a>
 
 - Reduced load time
 - Low bounce rate
@@ -62,3 +63,11 @@ By using AMP, you will observe that the mobile viewership of your website will i
 **Increase in efficiency**
 
 If you use AMP in your website, the efficiency of your website is going to definitely improve. This will in turn improve your business and sales.
+
+### [Trekking Top Nepal](https://trekkingtopnepal.com) is a mobile optimized travel agency website with online booking function and an AMP cached version.
+<a href="https://trekkingtopnepal.com" target="_blank"><img src="img/amp/trekkingtopnepal.png" id="responsive-image" width="640">
+<br/>
+
+### [ShiShu Tours](https://shishutours.fun) is an online tour booking website with AMP cached version.
+<a href="https://shishutours.fun" target="_blank"><img src="img/amp/shishutours.png" id="responsive-image" width="640">
+<br/>

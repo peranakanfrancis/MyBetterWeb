@@ -1044,3 +1044,5 @@ a.effect-box:hover:before {
  .footer .fa-heart {
 	 color: #fa2a7b;
 }
+
+#responsive-image {  width: 100%;  height: auto; } 
