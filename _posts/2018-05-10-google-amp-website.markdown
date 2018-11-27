@@ -8,15 +8,21 @@ date:   2018-05-10 12:12:12
 ---
 "We were looking for a firm which could handle our full online marketing campaign. They managed PPC, SEO and SMO for us. Since then our online booking has increased considerably. We recommend MyBetterWeb for online marketing" -<a href="http://nyornyar.com.my/" target="_blank"><i> nyornyar.com.my</i></a>
 
-- We create web pages as per the AMP specification.
-- We host your AMP at a URL associated to your main site.
-- We know very well how to make your AMP discoverable.
-- We mark up your content with structured data.
-- We monitor your AMP report on Search Console for errors.
-- We validate whether your page is written in suitable AMP HTML or not.
+- Reduced load time
+- Low bounce rate
+- Mobile friendly
+- Adjustment on any browser
+- SEO optimized
+- Increase the number Of visitors
 
-##  Accelerated Mobile Pages helps in fast loading of the website
-Accelerated Mobile Pages also known as AMP are web pages that are designed as per an open source requirement. Validated AMP pages are cached in Google's AMP cache, which enables them to be served even faster. A wide range of platforms along with Google Search support the AMP format. If there is a valid AMP version of a web page listed in Google's search results, Search may direct mobile users to the cached AMP.
+## Accelerated Mobile Pages (AMP) has greater SEO visibility on mobile devices
+The mobile users are growing day by day and AMP 85% faster than non-accelerated mobile pages. The principle benefits of accelerated mobile pages are that they are faster loading pages for mobile users. It reduces load time, decreases bounce rate, provides enhanced SEO and can easily adjust to any browser. While many website owners are looking to implement Google AMP pages, there are good reasons for you to implement it earlier than others.
+
+## The Google AMP web design
+An accelerated mobile page is a light form of a web page which is architecture for mobile devices. They are created by cutting down the amount of JavaScript and HTML that is used in creating the website. Our AMP developers are using the bare minimum amount of HTML and CSS for creating your accelerated mobile pages design.
+
+##  Better customization, the best possible performance of your site
+In order to have a better user experience and user interface for mobile devices, you need to have a new standard for building websites. Google Accelerated Mobile Pages is the new way to target your audience using mobile devices. The AMP can make your site rank higher on Google and can manage SEO with adding many benefits. The implementation of AMP will tend to work great and is used by many SEO Company across the world. The AMP is available with super-powerful content management system which reduces the loading time.
 
 #### How is Google AMP website works?
 **Load web pages faster**
