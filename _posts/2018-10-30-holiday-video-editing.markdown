@@ -6,8 +6,7 @@ avatar: "img/authors/author.jpg"
 image: "img/holiday/jumbotron.jpg"
 date:   2018-10-30 12:12:12
 ---
-"Thanks very much, the result is great. It shows attention to detail and care for capturing the essence of the holiday.
-" -<a href="https://www.facebook.com/oshoworldadventures/videos/186371325604026/" target="_blank"><i> oshoadventure.com</i></a>
+"Thanks very much, the result is great. It shows attention to detail and care for capturing the essence of the holiday." -<a href="https://www.facebook.com/oshoworldadventures/videos/186371325604026/" target="_blank"><i> oshoadventure.com</i></a>
 
 ##  Holiday videos - you shoot! We edit!
 Are you going on holiday? Well, we edit holiday videos. Photographs are great, but if you were thinking of filming whilst you were away, then we can edit all the best bits together. We will edit your footage to your favourite music, and create a video that you will want to watch again and again. Whether you are using your Iphone, GoPro or video camera, it doesn’t matter. We can still edit it together to create a professional video.
