@@ -9,6 +9,17 @@ date:   2018-06-01 12:12:12
 
 "Our web site was done very professionally. We like the layout and the time frame was great. Also, the price was very reasonable. Thanks for all your time and effort you put into this. We probably wouldn't have a website even now if we didn't find out about you." - <a href="https://shishutours.fun" target="_blank"><i>shishutours.fun</i></a>
 
+<div style="text-align: right">
+<h2>Price: $350</h2></div>
+<div align="right">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SFYXLJ2NLABQU">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+
 ## Make the most of your website
 Your conversion rate is very possibly the most important website statistic. The website conversion rate is the number that affects your bottom line and drives the growth of your business. MyBetterWeb specializes in turning your eCommerce website visitors into customers via our website conversion rate optimization service.
 

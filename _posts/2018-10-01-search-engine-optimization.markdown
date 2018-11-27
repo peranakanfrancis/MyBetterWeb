@@ -15,6 +15,17 @@ date:   2018-10-01 12:12:12
 - Technical Capabilities
 - SEO services with proven results
 
+<div style="text-align: right">
+<h2>Price: $500</h2></div>
+<div align="right">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="ZST86TN94D2AG">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+
 ## Proven eCommerce SEO strategies
 We create monthly reports that include all of your website's key metrics (conversions, sales, traffic, rankings) and summarize exactly what work was performed on your website. After analyzing our results and progress, we'll setup a call to discuss your monthly report and review our plans for the following month. This monthly process allows us to evaluate the effectiveness of our strategy in real-time and channel more energy into strategies that have a proven, direct impact on your bottom line.
 

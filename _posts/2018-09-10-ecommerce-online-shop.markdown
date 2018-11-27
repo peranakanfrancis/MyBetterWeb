@@ -9,6 +9,17 @@ date:   2018-09-10 12:12:12
 
 "We were looking for a company we could build a relationship with. We've dealt with a lot of people working out of their basement, and we needed to take it to the next level. Communication is excellent and they do what they say they are going to do." - <a href="https://usoft.store" target="_blank"><i>usoft.store</i></a>
 
+<div style="text-align: right">
+<h2>Price: $700</h2></div>
+<div align="right">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="M5VU9EB247TCY">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+
 ## eCommerce website design that takes your business to the next level
 We've worked on many eCommerce projects and know what it takes to generate sales. Utilizing responsive web design, your eCommerce website will be optimized for desktop, mobile and tablet shopping. With platform features like unlimited products and categories, to a secure one-page checkout, we make online shopping easy for customers to buy online and easy to manage for website owners.
 

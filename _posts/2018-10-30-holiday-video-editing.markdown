@@ -8,6 +8,17 @@ date:   2018-10-30 12:12:12
 ---
 "Thanks very much, the result is great. It shows attention to detail and care for capturing the essence of the holiday." -<a href="https://www.facebook.com/oshoworldadventures/videos/186371325604026/" target="_blank"><i> oshoadventure.com</i></a>
 
+<div style="text-align: right">
+<h2>Price: $250</h2></div>
+<div align="right">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="4CCHGXBW33VSQ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+
 ##  Holiday videos - you shoot! We edit!
 Are you going on holiday? Well, we edit holiday videos. Photographs are great, but if you were thinking of filming whilst you were away, then we can edit all the best bits together. We will edit your footage to your favourite music, and create a video that you will want to watch again and again. Whether you are using your Iphone, GoPro or video camera, it doesn’t matter. We can still edit it together to create a professional video.
 

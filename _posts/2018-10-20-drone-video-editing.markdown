@@ -8,6 +8,17 @@ date:   2018-10-10 12:12:12
 ---
 "The team did a great job! They took the footage of my project that had specific needs with narrow margin for error and nailed it and then some! They made us look great to our client!" -<a href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" target="_blank"><i> domhimalaya.com</i></a>
 
+<div style="text-align: right">
+<h2>Price: $250</h2></div>
+<div align="right">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RSNUC8YA6WYUS">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+
 ## Expert drone video editing
 Video drone footage offers endless possibilities. Whether you’re hosting a corporate event, family party or just want to get an eagle-eye perspective on a particular location, we can help you create outstanding drone videos from your footage that will have a lasting impact on your audience.  At MyBetterWeb, we make sure your footage is edited to perfection, delivering superior quality videos and a fantastic finished product.
 

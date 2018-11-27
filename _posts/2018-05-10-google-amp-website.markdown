@@ -15,6 +15,24 @@ date:   2018-05-10 12:12:12
 - SEO optimized
 - Increase the number Of visitors
 
+<div style="text-align: right">
+<h2>Price: from $600</h2></div>
+<div align="right">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RLEHPWPPWZPQQ">
+<table>
+<tr><td><input type="hidden" name="on0" value="Hosting Plans">Hosting Plans</td></tr><tr><td><select name="os0">
+	<option value="only Website without Hosting">only Website without Hosting $600.00 USD</option>
+	<option value="1 year Hosting">1 year Hosting $650.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+
 ## Accelerated Mobile Pages (AMP) has greater SEO visibility on mobile devices
 The mobile users are growing day by day and AMP 85% faster than non-accelerated mobile pages. The principle benefits of accelerated mobile pages are that they are faster loading pages for mobile users. It reduces load time, decreases bounce rate, provides enhanced SEO and can easily adjust to any browser. While many website owners are looking to implement Google AMP pages, there are good reasons for you to implement it earlier than others.
 

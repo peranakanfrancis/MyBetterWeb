@@ -15,6 +15,24 @@ date: "2018-06-01 12:12:12"
 - Landing Page Design and Development
 - Detailed Reporting and Monthly Meeting
 
+<div style="text-align: right">
+<h2>Price: from $500</h2></div>
+<div align="right">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="QWE9LZ6F9Z3QY">
+<table>
+<tr><td><input type="hidden" name="on0" value="Paid Search Marketing Package">Paid Search Marketing Package</td></tr><tr><td><select name="os0">
+	<option value="Basic">Basic $500.00 USD</option>
+	<option value="Advance">Advance $750.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+
 ## Detailed monthly ads reports
 At MyBetterWeb we manage your Facebook & Google Ads account targeting the keywords that will drive buyers to your site. Highly focused keyword research will determine the most cost-effective approach to obtaining customers who are searching for exactly what you offer. Through the various research tools we use, we will develop effective paid search campaigns focused on meeting your target cost per sale or lead.
 
