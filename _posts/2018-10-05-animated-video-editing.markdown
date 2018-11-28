@@ -44,31 +44,31 @@ If your message has a lot of data or needs to explain a complex solution - then 
 
 #### How animation video editing works?
 
-1. **Brief**
+**Brief**
 
 Tell us your ideas and we’ll respond with creativity ideas, you can make a 25 % deposit before project is commence.
 
-2. **Talk**
+**Talk**
 
 Have a one-to-one with an experienced animator and illustrator who are there to listen.
 
-3. **Meet**
+**Meet**
 
 Exchange ideas over meeting (or online meeting) so the video message and your brand are in tune.
 
-4. **Script approval**
+**Script approval**
 
 Most important part of the process. The right words for your audience.
 
-5. **Storyboard**
+**Storyboard**
 
 Images to go with the script. See on paper exactly how it will look.
 
-6. **Production**
+**Production**
 
 Collaboration continues and the team get to work. Animator, editor, sound artist.
 
-7. **The Show**
+**The Show**
 
 It’s 100% ready and exactly what you want, take a bow. You did it!
 
