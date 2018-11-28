@@ -1,8 +1,9 @@
-# Jekyll Modern Blog
+# Animation Responsive Website
 
-A Simple, Clean and responsive modern blog for jekyll.
+A Simple, Clean and responsive website powered by Jekyll & Github Pages.
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+## [Live Demo](https://mybetterweb.site/)
+![Screenshot of Live Theme](https://i.ibb.co/84LFQVR/Screenshot-2018-11-28-at-14-36-02.png)
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
