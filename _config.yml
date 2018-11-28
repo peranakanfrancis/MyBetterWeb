@@ -9,11 +9,8 @@ url: "https://mybetterweb.site"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-import
   - jekyll-sitemap
   - jekyll-assets
-  - jekyll-menus
-  - jekyll-archives
 compress_html:
   clippings: all
   comments: [ "<!-- ", " -->" ]
@@ -42,7 +39,4 @@ kramdown:
   input: GFM
   auto_ids: true
 hightlighter: rouge
-sass:
-  sass_dir:
-  style: compressed
 excludes: [ README.md, node_modules, Gemfile* ]
