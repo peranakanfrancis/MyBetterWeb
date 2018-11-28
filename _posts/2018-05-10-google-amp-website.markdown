@@ -44,23 +44,23 @@ An accelerated mobile page is a light form of a web page which is architecture f
 In order to have a better user experience and user interface for mobile devices, you need to have a new standard for building websites. Google Accelerated Mobile Pages is the new way to target your audience using mobile devices. The AMP can make your site rank higher on Google and can manage SEO with adding many benefits. The implementation of AMP will tend to work great and is used by many SEO Company across the world. The AMP is available with super-powerful content management system which reduces the loading time.
 
 #### How is Google AMP website works?
-**Load web pages faster**
+**1. Load web pages faster**
 
 If AMP is used while creating your website, your web pages will get loaded quite faster. This will enhance the experience that your users get from visiting your website and this creates your good image.
 
-**Increase in number of visitors**
+**2. Increase in number of visitors**
 
 If AMP is applied to your website, as said earlier your web pages will load faster. This gives an outstanding experience to the users when they visit your website. This makes them remain on your website for more time. This also increases the number of visitors to your website.
 
-**Increase in conversion rates**
+**3. Increase in conversion rates**
 
 If you have a website with AMP, you will definitely experience increase in conversion rates. This is because as your web pages load faster, visitors will remain on your website for more time. As a result, the visitors will visit more web pages on your website and they may get convinced to buy products/services. This certainly increases the conversion rates.
 
-**Increase in mobile viewership**
+**4. Increase in mobile viewership**
 
 By using AMP, you will observe that the mobile viewership of your website will increase. This will in turn increase your business.
 
-**Increase in efficiency**
+**5. Increase in efficiency**
 
 If you use AMP in your website, the efficiency of your website is going to definitely improve. This will in turn improve your business and sales.
 
