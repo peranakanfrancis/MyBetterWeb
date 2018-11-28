@@ -16,7 +16,7 @@ date:   2018-08-13 12:12:12
 - Mobile optimized speeds
 
 <div style="text-align: right">
-<h2>Price: from $450</h2></div>
+<h3>Price: from $450 / MYR1800</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

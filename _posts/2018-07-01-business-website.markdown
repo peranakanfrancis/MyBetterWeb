@@ -10,7 +10,7 @@ date:   2018-07-01 12:12:12
 "The overall design and functionality far exceeds my expectations. Your dedication, constant engagement, and responsiveness made the process easy. You really went above and beyond! I’m already looking forward to having you build my next site." -<a href="https://thapa.coffee" target="_blank"><i> thapa.coffee</i></a>
 
 <div style="text-align: right">
-<h2>Price: from $550</h2></div>
+<h3>Price: from $550 / MYR2300</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

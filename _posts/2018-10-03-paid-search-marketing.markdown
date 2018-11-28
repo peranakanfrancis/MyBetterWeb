@@ -16,7 +16,7 @@ date: "2018-10-03 12:12:12"
 - Detailed reporting and monthly meeting
 
 <div style="text-align: right">
-<h2>Price: from $500</h2></div>
+<h3>Price: from $500 / MYR2100 per month</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

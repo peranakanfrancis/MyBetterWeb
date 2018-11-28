@@ -10,7 +10,7 @@ date:   2018-10-05 12:12:12
 "MyBetterWeb helped us distill our message quickly and painlessly, which was worth every penny." -<a href="https://www.facebook.com/ultranetcommunication/" target="_blank"><i> ultranet.com.np</i></a>
 
 <div style="text-align: right">
-<h2>Price: $150</h2></div>
+<h3>Price: $150 / MYR 600 per task</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

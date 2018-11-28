@@ -10,7 +10,7 @@ date:   2018-06-01 12:12:12
 "Our web site was done very professionally. We like the layout and the time frame was great. Also, the price was very reasonable. Thanks for all your time and effort you put into this. We probably wouldn't have a website even now if we didn't find out about you." - <a href="https://shishutours.fun" target="_blank"><i>shishutours.fun</i></a>
 
 <div style="text-align: right">
-<h2>Price: $350</h2></div>
+<h3>Price: $350 / MYR1400 per task</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

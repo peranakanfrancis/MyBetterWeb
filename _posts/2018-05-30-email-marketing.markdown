@@ -15,7 +15,7 @@ date:   2018-05-30 12:12:12
 - Boost your customer base through your website
 
 <div style="text-align: right">
-<h2>Price: from $300</h2></div>
+<h3>Price: from $300 / MYR1200 per month</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

@@ -9,7 +9,7 @@ date:   2018-10-10 12:12:12
 "The team did a great job! They took the footage of my project that had specific needs with narrow margin for error and nailed it and then some! They made us look great to our client!" -<a href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" target="_blank"><i> domhimalaya.com</i></a>
 
 <div style="text-align: right">
-<h2>Price: $250</h2></div>
+<h3>Price: $250 / MYR1000 per task</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

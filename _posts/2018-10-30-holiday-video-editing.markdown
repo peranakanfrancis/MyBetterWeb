@@ -9,7 +9,7 @@ date:   2018-10-30 12:12:12
 "Thanks very much, the result is great. It shows attention to detail and care for capturing the essence of the holiday." -<a href="https://www.facebook.com/oshoworldadventures/videos/186371325604026/" target="_blank"><i> oshoadventure.com</i></a>
 
 <div style="text-align: right">
-<h2>Price: $250</h2></div>
+<h3>Price: $250 / MYR1000 per task</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

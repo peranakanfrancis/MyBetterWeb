@@ -10,7 +10,7 @@ date:   2018-09-10 12:12:12
 "We were looking for a company we could build a relationship with. We've dealt with a lot of people working out of their basement, and we needed to take it to the next level. Communication is excellent and they do what they say they are going to do." - <a href="https://usoft.store" target="_blank"><i>usoft.store</i></a>
 
 <div style="text-align: right">
-<h2>Price: $700</h2></div>
+<h3>Price: $700 / MYR2900</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

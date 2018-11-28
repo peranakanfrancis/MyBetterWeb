@@ -17,7 +17,7 @@ date:   2018-09-20 12:12:12
 - Increase the number of visitors
 
 <div style="text-align: right">
-<h2>Price: from $600</h2></div>
+<h3>Price: from $600 / MYR2500</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

@@ -16,7 +16,7 @@ date:   2018-10-01 12:12:12
 - SEO services with proven results
 
 <div style="text-align: right">
-<h2>Price: $500</h2></div>
+<h3>Price: $500 / MYR2100 per task</h3></div>
 <div align="right">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
