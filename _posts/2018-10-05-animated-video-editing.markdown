@@ -44,33 +44,19 @@ If your message has a lot of data or needs to explain a complex solution - then 
 
 #### How animation video editing works?
 
-1. **Brief**
+1. _Brief_ - Tell us your ideas and we’ll respond with creativity ideas, you can make a 25 % deposit before project is commence.
 
-Tell us your ideas and we’ll respond with creativity ideas, you can make a 25 % deposit before project is commence.
+2. _Talk_ - Have a one-to-one with an experienced animator and illustrator who are there to listen.
 
-2. **Talk**
+3. _Meet_ - Exchange ideas over meeting (or online meeting) so the video message and your brand are in tune.
 
-Have a one-to-one with an experienced animator and illustrator who are there to listen.
+4. _Script approval_ - Most important part of the process. The right words for your audience.
 
-3. **Meet**
+5. _Storyboard_ - Images to go with the script. See on paper exactly how it will look.
 
-Exchange ideas over meeting (or online meeting) so the video message and your brand are in tune.
+6. _Production_ - Collaboration continues and the team get to work. Animator, editor, sound artist.
 
-4. **Script approval**
-
-Most important part of the process. The right words for your audience.
-
-5. **Storyboard**
-
-Images to go with the script. See on paper exactly how it will look.
-
-6. **Production**
-
-Collaboration continues and the team get to work. Animator, editor, sound artist.
-
-7. **The Show**
-
-It’s 100% ready and exactly what you want, take a bow. You did it!
+7. _The Show_ It’s 100% ready and exactly what you want, take a bow. You did it!
 
 ### Explainer video for <a href="https://www.facebook.com/ultranetcommunication/" target="_blank">Ultranet Communication</a>
 <div style="padding:50% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/303275277?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br/>
