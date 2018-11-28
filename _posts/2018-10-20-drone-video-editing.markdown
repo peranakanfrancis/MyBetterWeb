@@ -43,7 +43,11 @@ Video drones are now playing a key role in reporting news stories and sports cov
 5. Make full payment for the finished article.
 6. Download your video from our secure server.
 
-### Edited video of Khumbu Icefall on Mt Everest
+### Edited video of Khumbu Icefall on Everest Base Camp
 <div class="fb-video" data-href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" data-width="640" data-show-text="false"><blockquote cite="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/">Ice glacier on Everest Base Camp, we&#039;re on the top of the world!</a><p>Climbing up on the #MtEverest and see the #IceFall and #Glaciers on #EverestBaseCamp #KhumbuIceFallTrek.
 
 #VisitNepal, #OnceisNotEnough!</p>Posted by <a href="https://www.facebook.com/oshoworldadventures/">Osho Adventure</a> on Monday, November 26, 2018</blockquote></div><br/>
+
+### Edited video of Mt Everest Expedition
+<div class="fb-video" data-href="https://www.facebook.com/oshoworldadventures/videos/527005537773090/" data-width="640" data-show-text="false"><blockquote cite="https://www.facebook.com/oshoworldadventures/videos/527005537773090/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/oshoworldadventures/videos/527005537773090/">This is Mt Everest unrevealed - we&#039;re standing on the top of the world!</a><p>Standing at the edge of the atmosphere and the sky owns a strange, dark blue color. It is surely the closest you can get to space on earth - Welcome to #MtEverest 🏔🌠</p>Posted by <a href="https://www.facebook.com/oshoworldadventures/">Osho Adventure</a> on Tuesday, November 27, 2018</blockquote></div>
+<br/>
