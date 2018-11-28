@@ -34,5 +34,5 @@ They say that the best things in life involve spontaneity and adventure, and tha
 5. Make full payment for the finished article.
 6. Download your video from our secure server.
 
-### Edited video of Annapurna Himalayan mountains in Nepal
+### Watch the full video of <a href="https://vimeo.com/300241052" target="_blank">Annapurna Himalayan mountains of Nepal</a> on <a href="https://vimeo.com/300241052" target="_blank">vimeo.com</a>
 <div class="fb-video" data-href="https://www.facebook.com/oshoworldadventures/videos/186371325604026/" data-width="640" data-show-text="false"><blockquote cite="https://www.facebook.com/oshoworldadventures/videos/186371325604026/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/oshoworldadventures/videos/186371325604026/">Annapurna Base Camp Trek</a><p>Annapurna Poon Hill for $799 &amp; get FREE 2 nights hotel in KTM + Singing Bowls Healing!</p>Posted by <a href="https://www.facebook.com/oshoworldadventures/">Osho Adventure</a> on Sunday, November 18, 2018</blockquote></div><br/>
