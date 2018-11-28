@@ -44,19 +44,33 @@ If your message has a lot of data or needs to explain a complex solution - then 
 
 #### How animation video editing works?
 
-- 1. **Brief** - tell us your ideas and we’ll respond with creativity ideas, you can make a 25 % deposit before project is commence.
+1. **Brief**
 
-- 2. **Talk** - have a one-to-one with an experienced animator and illustrator who are there to listen.
+Tell us your ideas and we’ll respond with creativity ideas, you can make a 25 % deposit before project is commence.
 
-- 3. **Meet** - exchange ideas over meeting (or online meeting) so the video message and your brand are in tune.
+2. **Talk**
 
-- 4. **Script approval** - Most important part of the process. The right words for your audience.
+Have a one-to-one with an experienced animator and illustrator who are there to listen.
 
-- 5. **Storyboard** - images to go with the script. See on paper exactly how it will look.
+3. **Meet**
 
-- 6. **Production** - collaboration continues and the team get to work. Animator, editor, sound artist.
+Exchange ideas over meeting (or online meeting) so the video message and your brand are in tune.
 
-- 7. **The Show** - it’s 100% ready and exactly what you want, take a bow. You did it!
+4. **Script approval**
+
+Most important part of the process. The right words for your audience.
+
+5. **Storyboard**
+
+Images to go with the script. See on paper exactly how it will look.
+
+6. **Production**
+
+Collaboration continues and the team get to work. Animator, editor, sound artist.
+
+7. **The Show**
+
+It’s 100% ready and exactly what you want, take a bow. You did it!
 
 ### Explainer video for <a href="https://www.facebook.com/ultranetcommunication/" target="_blank">Ultranet Communication</a>
 <div style="padding:50% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/303275277?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br/>
