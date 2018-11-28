@@ -4,7 +4,7 @@ subtitle: "wonderful way to load web pages faster"
 author: "Peranakan Francis"
 avatar: "img/authors/author.jpg"
 image: "img/amp/jumbotron.jpg"
-date:   2018-05-10 12:12:12
+date:   2018-09-20 12:12:12
 ---
 
 "MyBetterWeb helped us set up the campaign, build highly converting landing pages and they manage our campaigns constantly. We get many of leads a month and couldn't be happier with their service!" - <a href="https://trekkingtopnepal.com" target="_blank"><i>trekkingtopnepal.com</i></a>
@@ -14,7 +14,7 @@ date:   2018-05-10 12:12:12
 - Mobile friendly
 - Adjustment on any browser
 - SEO optimized
-- Increase the number Of visitors
+- Increase the number of visitors
 
 <div style="text-align: right">
 <h2>Price: from $600</h2></div>

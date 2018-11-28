@@ -4,16 +4,16 @@ subtitle: "higher return on investment"
 author: "Peranakan Francis"
 avatar: "img/authors/author.jpg"
 image: "img/paid-ads/jumbotron.jpg"
-date: "2018-06-01 12:12:12"
+date: "2018-10-03 12:12:12"
 ---
 
 "We were looking for a firm which could handle our full online marketing campaign. They managed PPC, SEO and SMO for us. Since then our online booking has increased considerably. We recommend MyBetterWeb for online marketing" -<a href="http://nyornyar.com.my/" target="_blank"><i> nyornyar.com.my</i></a>
 
-- Keyword Research for a Solid Foundation
-- Competitor Campaign Analysis
-- Campaign Creation and Ad Copy Creation
-- Landing Page Design and Development
-- Detailed Reporting and Monthly Meeting
+- Keyword research for a solid foundation
+- Competitor campaign analysis
+- Campaign creation and Ads copy creation
+- Landing page design and development
+- Detailed reporting and monthly meeting
 
 <div style="text-align: right">
 <h2>Price: from $500</h2></div>

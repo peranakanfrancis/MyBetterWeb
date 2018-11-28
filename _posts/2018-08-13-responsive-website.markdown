@@ -9,11 +9,11 @@ date:   2018-08-13 12:12:12
 
 "I love my website! It's beautiful, professional, and easy to navigate. MyBetterWeb was a great company to work with. As a business owner, I definitely appreciate their great customer service, projects done in an efficient and timely manner, and a final product that exceeded my expectations and also made us won <a href="http://www.mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste" target="_blank">Malaysia Website Awards 2017</a>." -<a href="https://khimyan.com" target="_blank"><i>khimyan.com</i></a>
 
-- Perform On All Devices
-- Manage One Code Base
-- Rank Higher
-- Easy Mobile Checkout
-- Mobile Optimized Speeds
+- Perform on all devices
+- Manage one code base
+- Rank higher
+- Easy mobile checkout
+- Mobile optimized speeds
 
 <div style="text-align: right">
 <h2>Price: from $450</h2></div>

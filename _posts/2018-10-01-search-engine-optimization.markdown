@@ -9,10 +9,10 @@ date:   2018-10-01 12:12:12
 
 "MyBetterWeb is a cutting edge company that really "gets it". Attentive, friendly, and knowledgeable staff. As a client for past few months, I can say with complete confidence that they are going to work very hard for you. The results speak for themselves and our company is quite impressed with the work they have done." -<a href="https://ultranet.netlify.com/" target="_blank"><i> ultranet.com.np</i></a>
 
-- Proven Techniques
-- Transparent Detailed Monthly Reports
-- Certified Google Partner Team
-- Technical Capabilities
+- Proven techniques
+- Transparent detailed monthly reports
+- Certified Google Partner team
+- Technical capabilities
 - SEO services with proven results
 
 <div style="text-align: right">
