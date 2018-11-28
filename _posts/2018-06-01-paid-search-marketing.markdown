@@ -39,7 +39,10 @@ At MyBetterWeb we manage your Facebook & Google Ads account targeting the keywor
 ## eCommerce focused ads strategies that drive sales
 By investing in paid ads, you will assist highly eager buyers in finding your site who wouldn't necessarily find it through organic search engine optimization techniques. Our end goal is to create an campaign with a high ROI (return on investment) that allows your company to spend wisely and grow profitable month after month.
 
-### How does AdWords campaign management work?
+### How is Facebook Ads works?
+If you have opened your new boutique store and you want people to know about your store in your area and out of your, there can be one way like creating a Facebook page of your shop. You can post everyday on your page about your shop, about new products and services which you are selling, discount offers, etc. This is marketing strategy which you can use with the help of Facebook. You will also be able to create campaigns and ads for businesses but they are paid.  These campaigns and ads are genuine and you will get most of the likes for your campaign. People subscribe to these campaigns and ads to get lot of visitors for their posts.
+
+### How does Google Ads campaign management work?
 **1. Paid Campaign Analysis & Implementation**
 
 With an established Ads account we will analyze historical data to find what performs most favorably, and tailor other parts to perform in a similar fashion. We will then change bidding options, keywords, ad text, and destination links to align with our goals. The goal is to drive as many leads and/or sales as possible per dollar spent.
@@ -59,3 +62,7 @@ Multiple ads will be tested using A/B testing methods to determine which ads lea
 **5. Monthly Maintenance**
 
 All aspects of the account will be reviewed each month to determine what areas can be improved and to be sure the campaign is running smoothly. Negative keywords and changes to your keywords will constantly be made to improve results.
+
+### We managed [Trekking Top Nepal](https://trekkingtopnepal.com) facebook ads campaign for a month. They gained better visibility and more than 6k interest-oriented new fans are engaging with their posts everyday.  
+<a href="https://trekkingtopnepal.com" target="_blank"><img src="img/seo/trekkingtopnepal.png" id="responsive-image" width="640">
+<br/>

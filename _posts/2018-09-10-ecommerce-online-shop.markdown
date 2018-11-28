@@ -49,9 +49,7 @@ Through a well-designed content management system (CMS), you can easily update p
 
 From advanced search engine optimization tools to running promotions, our sites are built to give you a suite of powerful marketing tools. Run BOGOs, create landing pages and drive revenue to your eCommerce website.
 
-<div class="img">
 ### [Usoft Store](https://usoft.store) is an eCommerce online shop with a.i order taking automation features. Try to shop with the chatbot [here](https://m.me/www.usoft.com.np).
 
-<a href="https://usoft.store" target="_blank"><img src="img/eCommerce/usoft.png" width="640">
+<a href="https://usoft.store" target="_blank"><img src="img/eCommerce/usoft.png" id="responsive-image" width="640">
 <br/>
-</div>
