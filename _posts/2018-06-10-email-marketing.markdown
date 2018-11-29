@@ -4,10 +4,10 @@ subtitle: "reach out to your customer effectively"
 author: "Peranakan Francis"
 avatar: "img/authors/author.jpg"
 image: "img/email/jumbotron.jpg"
-date:   2018-05-30 12:12:12
+date:   2018-06-10 12:12:12
 ---
 
-"When we decided to create our company, our vision was to bring to life a website that didn’t look like a website. We were thrilled when we found MyBetterWeb. They took our vision and made it come to life. MyBetterWeb is with no doubt the best design company we ever worked with!" - <a href="http://www.voffice.com.my/" target="_blank"><i>voffice.com.my</i></a>
+"MyBetterWeb helps us to promote our cafe menu to the local communities and that also attracted many online orders from as far as 40 km away form us. It's pretty much limitless in the ways that we can work with MyBetterWeb for the Email Marketing service they provide." - <a href="https://busybakerycafe.business.site/" target="_blank"><i>Busy Bakery Cafe</i></a>
 
 - Deliver emails effectively
 - Flexibility of deployment online or onsite
@@ -51,4 +51,8 @@ At MyBetterWeb, we send the message of your business/product/service through app
 | Total opening report	                 | No	     | Yes     |
 | Website visitor count through mailers	 | No      | Yes     |
 
+<br/>
+
+### [Busy Bakery Cafe](https://busybakerycafe.business.site/) get more than 300 new subscribers in the first  month of implementation and they also hit almost 100 online order in a day.
+<a href="https://busybakerycafe.business.site/" target="_blank"><img src="img/email/busybakerycafe.png" id="responsive-image" width="640">
 <br/>
