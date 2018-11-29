@@ -73,4 +73,4 @@ Collaboration continues and the team get to work. Animator, editor, sound artist
 It’s 100% ready and exactly what you want, take a bow. You did it!
 
 ### Explainer video for <a href="https://www.facebook.com/ultranetcommunication/" target="_blank">Ultranet Communication</a>
-<div style="padding:50% 0 0 0;position:relative;"><iframe class="lazyload" data-src="https://player.vimeo.com/video/303275277?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br/>
+<div style="padding:50% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/303275277?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br/>
