@@ -53,6 +53,6 @@ At MyBetterWeb, we send the message of your business/product/service through app
 
 <br/>
 
-### [Busy Bakery Cafe](https://busybakerycafe.business.site/) gets around 1900 new leads within a month and they also hit almost 100 online order in a day.
+### [Busy Bakery Cafe](https://busybakerycafe.business.site/) gets around 1900 new leads within 3 months at an average of 21% growing rate every month.
 <a href="https://busybakerycafe.business.site/" target="_blank"><img src="img/email/busybakerycafe.png" id="responsive-image" width="640">
 <br/>
