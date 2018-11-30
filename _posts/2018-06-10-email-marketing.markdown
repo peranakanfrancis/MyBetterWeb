@@ -39,7 +39,7 @@ In today world, when a person wants to buy any product or service, the first thi
 We Offer direct email marketing services to our clients through which the information about your business, product or service is sent out more like a missile. Whatever you are selling, we can reach you to numerous potential customers directly through email marketing at reasonable cost.
 
 ### Quicker, more persistent, more committed, and creative
-At MyBetterWeb, we send the message of your business/product/service through appealing infographics, text and links directly to your potential customers who are not aware of your business or products or services, but are interested in your business area of expertise. You can easily track how effective our email marketing service is by keeping track of the number of hits your website gets after mass mailing.
+At MyBetterWeb, we send the message of your business, product or service through appealing infographics, text and links directly to your potential customers who are not aware of your business or products or services, but are interested in your business area of expertise. You can easily track how effective our email marketing service is by keeping track of the number of hits your website gets after mass mailing.
 
 | E-mailers	                             | Basic   | Advance |
 |:-------------------------------------- |:-------:|--------:|
