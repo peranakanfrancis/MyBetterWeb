@@ -1,6 +1,6 @@
 ---
 title: "Email Marketing"
-subtitle: "reach out to your customer effectively"
+subtitle: "reaching out to your customer effectively"
 author: "Peranakan Francis"
 avatar: "img/authors/author.jpg"
 image: "img/email/jumbotron.jpg"
@@ -53,6 +53,6 @@ At MyBetterWeb, we send the message of your business/product/service through app
 
 <br/>
 
-### [Busy Bakery Cafe](https://busybakerycafe.business.site/) get more than 300 new subscribers in the first  month of implementation and they also hit almost 100 online order in a day.
+### [Busy Bakery Cafe](https://busybakerycafe.business.site/) gets around 1900 new leads within a month and they also hit almost 100 online order in a day.
 <a href="https://busybakerycafe.business.site/" target="_blank"><img src="img/email/busybakerycafe.png" id="responsive-image" width="640">
 <br/>
