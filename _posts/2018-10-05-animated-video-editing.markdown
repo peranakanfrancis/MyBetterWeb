@@ -5,6 +5,7 @@ author: "Peranakan Francis"
 avatar: "img/authors/author.jpg"
 image: "img/animation/jumbotron.jpg"
 date:   2018-10-05 12:12:12
+comments: true
 ---
 
 "MyBetterWeb helped us distill our message quickly and painlessly, which was worth every penny." -<a href="https://www.facebook.com/ultranetcommunication/" target="_blank"><i> ultranet.com.np</i></a>
