@@ -70,15 +70,12 @@ layout: compress
                             </div>
                             {{ post.content }}
                             <div class="sharethis-inline-reaction-buttons"></div>
-                        </div>
+                          <div>
                     </div>
                 </div>
             </div>
+            {% include disqus.html %}
             {% endfor %}
-            {% if page.comments %}
-            {% include disqus %}
-            {% endif %}
-
             <!-- /cards -->
         </div>
     </div>
