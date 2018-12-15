@@ -5,10 +5,14 @@
 <script src="js/vendors/cash.min.js"></script>
 <script src="js/card-modern-blog.js"></script>
 <script src="js/modern-blog.js"></script>
-<script id="dsq-count-scr" src="//mybetterweb.disqus.com/count.js" async></script>
+<script src="{{ "js/vendors/prism.js" | prepend: site.baseurl }}"></script>
+
+<!-- <script id="dsq-count-scr" src="//mybetterweb.disqus.com/count.js" async></script> -->
 
 {% include chaport.html %}
 
-<!-- {% include facebook-sdk.html %} -->
+{% include facebook-sdk.html %}
+
+<!-- {% include messenger.html %} -->
 
 {% include lazyload.html %}

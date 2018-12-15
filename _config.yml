@@ -1,5 +1,5 @@
 # Site settings
-title: MyBetterWeb.site
+title: MyBetterWeb
 slogan: "Web Development | eCommerce | Digital Marketing | Video Editing"
 description: "We build seo-optimized and mobile-friendly websites designed to perform across all devices. Generate leads or sales from customers on desktop computers or their phones."
 keywords: "digital marketing service in malaysia, website development in malaysia, web design in nepal, holiday video editing in malaysia, drone video editing in nepal, email marketing in malaysia, search engine optimization service in nepal, facebook ads service in nepal, google amp website in malaysia"
@@ -14,19 +14,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-cloudinary
+#  - jekyll-cloudinary
   
 # cloudinary configuration  
-cloudinary:
-  cloud_name: "aboutmybetterweb"
-  presets:
-    default:
-      min_width: 320
-      max_width: 1600
-      fallback_max_width: 640
-      steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
-
 cloudinary:
   cloud_name: "aboutmybetterweb"
   presets:
@@ -62,14 +52,12 @@ twitter:
 facebook:
   app_id: 150284722314875
   admins: 611725499
-
 disqus: mybetterweb
 
 # site configuration
 profile: true
-incremental: true
 livereload: true
-time_zone: Asia/Katmandul
+time_zone: Asia/Kathmandu
 destination: public
 source:
 markdown: kramdown
@@ -77,5 +65,7 @@ kramdown:
   hard_wrap : false
   input: GFM
   auto_ids: true
-hightlighter: rouge
+  syntax_highlighter_opts:
+      disable : true
+highlighter: none
 excludes: [ README.md, node_modules, Gemfile*, "LICENSE", ]

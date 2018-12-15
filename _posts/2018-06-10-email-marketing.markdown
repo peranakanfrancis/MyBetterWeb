@@ -57,5 +57,3 @@ At MyBetterWeb, we send the message of your business, product or service through
 ### [Busy Bakery Cafe](https://busybakerycafe.business.site/) gets around 1900 new leads within 3 months at an average of 21% growing rate every month.
 <a href="https://busybakerycafe.business.site/" target="_blank"><img src="img/email/busybakerycafe.png" id="responsive-image" width="640">
 <br/>
-
-<a href="https://busybakerycafe.business.site/" target="_blank">{% cloudinary img/email/busybakerycafe.png alt="busybakerycafe email marketing result" %}
