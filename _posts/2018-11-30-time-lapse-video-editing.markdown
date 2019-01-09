@@ -28,6 +28,6 @@ Our Time Lapse Video Editing Service offers in-depth editing with a microscopic 
 
 Some events can last for hours while others last for just an hour or even less. Whatever the duration, it is sometimes boring very arduous task to watch an event in its entirety, especially events where you don’t notice much change. With our Time Lapse Video Editing Service, you can watch such events faster without feeling bored.
 
-### <a href="https://vimeo.com/309828712" target="_blank">The other side of Pokhara - Charm of Nepal</a> was shot over 2 weeks time span and edited with time lapse technique. 
+### <a href="https://vimeo.com/309828712" target="_blank">The other side of Pokhara - Charm of Nepal</a> was shot over 2 weeks time span and edited with time lapse technique.
 <div style="padding:51.49% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/309828712" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br/>
