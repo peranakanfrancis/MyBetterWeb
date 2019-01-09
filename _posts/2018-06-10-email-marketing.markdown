@@ -5,7 +5,6 @@ author: "Peranakan Francis"
 avatar: "img/authors/author.jpg"
 image: "img/email/jumbotron.jpg"
 date:   2018-06-10 12:12:12
-comments: true
 ---
 
 "MyBetterWeb helps us to promote our cafe menu to the local communities and that also attracted many online orders from as far as 40 km away form us. It's pretty much limitless in the ways that we can work with MyBetterWeb for the Email Marketing service they provide." - <a href="https://busybakerycafe.business.site/" target="_blank"><i>Busy Bakery Cafe</i></a>

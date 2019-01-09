@@ -10,22 +10,9 @@ permalink : pretty
 
 # jekyll gems
 plugins:
-#  - jekyll-cloudinary
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-#  - jekyll-cloudinary
-  
-# cloudinary configuration  
-cloudinary:
-  cloud_name: "aboutmybetterweb"
-  presets:
-    default:
-      min_width: 320
-      max_width: 1600
-      fallback_max_width: 800
-      steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
 
 # compress html
 encoding: "utf-8"
@@ -52,9 +39,9 @@ twitter:
 facebook:
   app_id: 150284722314875
   admins: 611725499
-disqus: mybetterweb
 
 # site configuration
+future: true
 profile: true
 livereload: true
 time_zone: Asia/Kathmandu
