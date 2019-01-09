@@ -40,8 +40,6 @@ facebook:
   app_id: 150284722314875
   admins: 611725499
 
-disqus: mybetterweb
-
 # site configuration
 profile: true
 incremental: true

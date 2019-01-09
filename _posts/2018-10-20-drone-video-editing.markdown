@@ -6,6 +6,7 @@ avatar: "img/authors/author.jpg"
 image: "img/drone/jumbotron.jpg"
 date:   2018-10-10 12:12:12
 ---
+
 "The team did a great job! They took the footage of my project that had specific needs with narrow margin for error and nailed it and then some! They made us look great to our client!" -<a href="https://www.facebook.com/oshoworldadventures/videos/2322051537823042/" target="_blank"><i> domhimalaya.com</i></a>
 
 <div style="text-align: right">

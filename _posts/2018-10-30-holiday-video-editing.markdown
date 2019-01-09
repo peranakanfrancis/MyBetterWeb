@@ -6,6 +6,7 @@ avatar: "img/authors/author.jpg"
 image: "img/holiday/jumbotron.jpg"
 date:   2018-10-30 12:12:12
 ---
+
 "Thanks very much, the result is great. It shows attention to detail and care for capturing the essence of the holiday." -<a href="https://www.facebook.com/oshoworldadventures/videos/186371325604026/" target="_blank"><i> oshoadventure.com</i></a>
 
 <div style="text-align: right">
