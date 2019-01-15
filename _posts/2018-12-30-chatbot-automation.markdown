@@ -36,8 +36,6 @@ Chatbots can help hotels in a number of areas, including time management, guest 
 Additionally, hotel guests can be encouraged to give feedback via an integrated review function. This way, hotels can collect their own hotel reviews directly from their guests, when the guest are still staying at the property (and not 2 days later). It also positively affects ratings on Tripadvisor & Facebook, of course.
 
 #### How is A.I Chatbot for Hotel works?
-The assistance is geolocalised, personalized, takes into account your habits of interrogation and help provided (via machine learning).
-
 **1. A room reservation module (payments are subjective to certain countries)**
 
 **2. A virtual concierge (FAQ, information about local bars and restaurants, etc.)**
