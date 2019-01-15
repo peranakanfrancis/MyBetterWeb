@@ -828,7 +828,7 @@ a:focus {
 }
 
 .body a {
-	color: #fa2a7b;
+	color: #f44456;
 }
 
 .body .header h1 span {
@@ -1042,7 +1042,7 @@ a.effect-box:hover:before {
 	 font-size: 13px;
 }
  .footer .fa-heart {
-	 color: #fa2a7b;
+	 color: #f44456;
 }
 
 #responsive-image {  width: 100%;  height: auto; }
