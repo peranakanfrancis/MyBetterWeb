@@ -47,8 +47,8 @@ Additionally, hotel guests can be encouraged to give feedback via an integrated 
 **5. A review module that increase the number of positive reviews on Facebook.**
 
 ### <a href="https://domhimalaya.com" target="_blank">Dom Himalaya</a> is a famous boutique hotel in Kathmandu and they receive a lot of inquiries on Messenger daily. We build a chatbot for them to automate hotel booking process and answering to questions on the spot. You can chat with the chatbot <a href="https://m.me/domhimalayahotel" target="_blank">here</a>.
-<img src="img/ai/demo-chatbot.gif" alt="hotel chatbot" id="responsive-image" width="640">
+<img src="https://res.cloudinary.com/aboutmybetterweb/image/upload/v1549734588/demo-chatbot.gif" alt="hotel chatbot" id="responsive-image" width="640">
 <br/>
 ### <a href="https://m.balthalimountainresort.com" target="_blank">Balthali Mountain Resort</a> is a luxury resort located on top of hill. We build a chatbot to not only handle room booking but also tour booking, event management and all kind of hotel services now on automation. You can chat with their bot <a href="https://m.me/balthalimountainresort" target="_blank">here</a>
-<img src="img/ai/demo-chatbot2.gif" alt="hotel chatbot" id="responsive-image" width="640">
+<img src="http://res.cloudinary.com/aboutmybetterweb/image/upload/v1549735349/ezgif-4-4322d1e786a1.gif" alt="hotel chatbot" id="responsive-image" width="640">
 <br/>

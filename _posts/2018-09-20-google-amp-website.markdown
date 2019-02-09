@@ -65,9 +65,9 @@ By using AMP, you will observe that the mobile viewership of your website will i
 If you use AMP in your website, the efficiency of your website is going to definitely improve. This will in turn improve your business and sales.
 
 ### [Trekking Top Nepal](https://trekkingtopnepal.com) is a mobile optimized travel agency website with online booking function and an AMP cached version.
-<a href="https://trekkingtopnepal.com" target="_blank"><img src="img/amp/trekkingtopnepal.gif"  alt="responsive website" id="responsive-image" width="640">
+<a href="https://trekkingtopnepal.com" target="_blank"><img src="https://res.cloudinary.com/aboutmybetterweb/image/upload/v1549736171/trekkingtopnepal.gif"  alt="responsive website" id="responsive-image" width="640">
 <br/>
 
 ### [ShiShu Tours](https://shishutours.fun) is an online tour booking website with AMP cached version.
-<a href="https://shishutours.fun" target="_blank"><img src="img/amp/shishutours.gif" alt="responsive website" id="responsive-image" width="640">
+<a href="https://shishutours.fun" target="_blank"><img src="https://res.cloudinary.com/aboutmybetterweb/image/upload/v1549736341/ezgif-4-8fd66f74e533.gif" alt="responsive website" id="responsive-image" width="640">
 <br/>
