@@ -69,5 +69,5 @@ If you use AMP in your website, the efficiency of your website is going to defin
 <br/>
 
 ### [ShiShu Tours](https://shishutours.fun) is an online tour booking website with AMP cached version.
-<a href="https://shishutours.fun" target="_blank"><img src="https://res.cloudinary.com/aboutmybetterweb/image/upload/v1549736341/ezgif-4-8fd66f74e533.gif" alt="responsive website" id="responsive-image" width="640">
+<a href="https://shishutours.fun" target="_blank"><img src="https://res.cloudinary.com/aboutmybetterweb/image/upload/v1549736341/shishutours.gif" alt="responsive website" id="responsive-image" width="640">
 <br/>
