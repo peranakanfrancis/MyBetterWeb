@@ -33,5 +33,5 @@ We create monthly reports that include all of your website's key metrics (conver
 Marketing your website through search engine optimization (SEO) is just as important as the way your website looks and functions. SEO can have a major positive impact on your visibility and it's important to choose a professional search marketing agency that understands search engine algorithms and is experienced in providing tangible results. We've helped companies increase traffic by over 500% in less than 6 months and grow sales by hundred of thousands of dollars. Our search engine optimization services (SEO), will help display your website toward the top of organic search results for the keywords most important to your specific business.
 
 ### [Osho Adventure](https://oshoadventure.com) traffic is on a steady growth from 0 to 1000+ within a month after we implement seo optimize on their new site.
-<a href="https://oshoadventure.com" target="_blank"><img src="img/seo/oshoadventure.png" id="responsive-image" width="640">
+<a href="https://oshoadventure.com" target="_blank"><img src="img/seo/oshoadventure.png"  alt="search engine marketing" id="responsive-image" width="640">
 <br/>

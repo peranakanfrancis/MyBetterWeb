@@ -54,5 +54,5 @@ Using the latest technology, we'll optimize images and code to load quickly for 
 <br/>
 
 ### [Ultranet Communication](https://ultranet.netlify.com) is a business with online shopping eCommerce site.
-<a href="https://ultranet.netlify.com" target="_blank"><img src="img/business/ultranet.png" id="responsive-image" width="640">
+<a href="https://ultranet.netlify.com" target="_blank"><img src="img/business/ultranet.png"  alt="corporate website" id="responsive-image" width="640">
 <br/>

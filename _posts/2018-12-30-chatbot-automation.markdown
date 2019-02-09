@@ -1,5 +1,5 @@
 ---
-title:  "A.I Chatbot for Hotel"
+title:  "Messenger A.I Chatbot"
 subtitle: "dynamic solution to provide up-to-date guest experience"
 description: "A smart, affordable and easy-to-use conversational messaging solutions for hotels, serviced apartments, B&Bs or Airbnb hosts. We're excited about the journey ahead and reinventing hotel guest service for the 21st century."
 author: "Peranakan Francis"
@@ -8,7 +8,7 @@ image: "img/ai/jumbotron.jpg"
 date:   2018-12-30 12:12:12
 ---
 
-"I would certainly recommend MyBetterWeb and their A.I chatbot to anyone who has a customer facing website, the software is functional, easy to use and can only help your business improve its customer service." - <a href="https://domhimalaya.com" target="_blank"><i>Dom Himalaya Hotel</i></a>
+"I would certainly recommend MyBetterWeb and their A.I chatbot to anyone who has a customer facing website, the software is functional, easy to use and can only help your business improve its customer service." - <a href="https://m.balthalimountainresort.com" target="_blank"><i>Balthali Mountain Resort</i></a>
 
 - The customer loves it because it respond within a few seconds.
 - They engage with the hotel in a live and contextual way.
@@ -47,5 +47,8 @@ Additionally, hotel guests can be encouraged to give feedback via an integrated 
 **5. A review module that increase the number of positive reviews on Facebook.**
 
 ### <a href="https://domhimalaya.com" target="_blank">Dom Himalaya</a> is a famous boutique hotel in Kathmandu and they receive a lot of inquiries on Messenger daily. We build a chatbot for them to automate hotel booking process and answering to questions on the spot. You can chat with the chatbot <a href="https://m.me/domhimalayahotel" target="_blank">here</a>.
-<img src="img/ai/demo-chatbot.gif" id="responsive-image" width="640">
+<img src="img/ai/demo-chatbot.gif" alt="hotel chatbot" id="responsive-image" width="640">
+<br/>
+### <a href="https://m.balthalimountainresort.com" target="_blank">Balthali Mountain Resort</a> is a luxury resort located on top of hill. We build a chatbot to not only handle room booking but also tour booking, event management and all kind of hotel services now on automation. You can chat with their bot <a href="https://m.me/balthalimountainresort" target="_blank">here</a>
+<img src="img/ai/demo-chatbot2.gif" alt="hotel chatbot" id="responsive-image" width="640">
 <br/>

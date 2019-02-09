@@ -64,5 +64,5 @@ Multiple ads will be tested using A/B testing methods to determine which ads lea
 All aspects of the account will be reviewed each month to determine what areas can be improved and to be sure the campaign is running smoothly. Negative keywords and changes to your keywords will constantly be made to improve results.
 
 ### We managed [Trekking Top Nepal](https://trekkingtopnepal.com) facebook ads campaign for a month. They gained better visibility and more than 6k interest-oriented new fans are engaging with their posts everyday.  
-<a href="https://trekkingtopnepal.com" target="_blank"><img src="img/paid-ads/trekkingtopnepal.png" id="responsive-image" width="640">
+<a href="https://trekkingtopnepal.com" target="_blank"><img src="img/paid-ads/trekkingtopnepal.png"  alt="facebook ads" id="responsive-image" width="640">
 <br/>
