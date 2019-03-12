@@ -7,7 +7,7 @@ image: "img/Web-Development/jumbotron.jpg"
 date:   2018-08-13 12:12:12
 ---
 
-"I love my website! It's beautiful, professional, and easy to navigate. MyBetterWeb was a great company to work with. As a business owner, I definitely appreciate their great customer service, projects done in an efficient and timely manner, and a final product that exceeded my expectations and also made us won <a href="http://www.mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste" target="_blank">Malaysia Website Awards 2017</a>." - Khimyan Curry</a>
+"I love my website! It's beautiful, professional, and easy to navigate. MyBetterWeb was a great company to work with. As a business owner, I definitely appreciate their great customer service, projects done in an efficient and timely manner, and a final product that exceeded my expectations and also made us won <a href="http://www.mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste" target="_blank">Malaysia Website Awards 2017</a>." - Khimyan Curry
 
 - Perform on all devices
 - Manage one code base
@@ -45,8 +45,4 @@ As mobile and tablet traffic continues to grow at a rapid pace, the need to have
 ## App-like website feel & functionality
 With responsive design the need for a separate mobile site and tablet optimized website is eliminated and your website will automatically "adapt" to the device it is being viewed on. You'll end up with a site that looks great on a mobile device, tablet, desktop computer and everything in between.
 
-
-### [Khimyan Curry](https://khimyan.com) is a responsive website.
-<a href="https://khimyan.com" target="_blank"><img src="img/Web-Development/khimyan.png"  alt="responsive website" id="responsive-image" width="640">
-<br/>
-
+### [Ultranet Communication](https://ultranet.netlify.com) is a business with online shopping eCommerce site. <a href="https://ultranet.netlify.com" target="_blank"><img src="img/business/ultranet.png" alt="corporate website" id="responsive-image" width="640"> <br/>
