@@ -11,7 +11,11 @@ def date_in_front_matter(date)
 end
 
 describe 'posts' do
+<<<<<<< HEAD
   Dir.glob("_posts/*.markdown").each do |file|
+=======
+  Dir.glob("_posts/*markdown").each do |file|
+>>>>>>> 017c104b4af706f505b0125b31a149743ce17caf
     basename = File.basename(file)
 
     context basename do

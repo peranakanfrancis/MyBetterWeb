@@ -1,9 +1,9 @@
 ---
-title:  "Holiday Video Editing"
-subtitle: "turns your video into magical memories"
-author: "Peranakan Francis"
-avatar: "img/authors/author.jpg"
-image: "img/holiday/jumbotron.jpg"
+title:  Holiday Video Editing
+subtitle: turns your video into magical memories
+author: Peranakan Francis
+avatar: img/authors/author.jpg
+image: img/holiday/jumbotron.jpg
 date:   2018-10-30 12:12:12
 ---
 

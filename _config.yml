@@ -1,6 +1,10 @@
 # Site settings
 title: MyBetterWeb
+<<<<<<< HEAD
 slogan: "Web Development | Online Store  | A.I Chatbot | Digital Marketing | Video Editing"
+=======
+slogan: "Web Development | eCommerce | Digital Marketing | Video Editing"
+>>>>>>> 017c104b4af706f505b0125b31a149743ce17caf
 description: "We build seo-optimized and mobile-friendly websites designed to perform across all devices. Generate leads or sales from customers on desktop computers or their phones."
 keywords: "digital marketing service in malaysia, website development in malaysia, web design in nepal, holiday video editing in malaysia, drone video editing in nepal, email marketing in malaysia, search engine optimization service in nepal, facebook ads service in nepal, google amp website in malaysia"
 logo: img/logo-transparent.png
@@ -41,10 +45,10 @@ facebook:
   admins: 611725499
 
 # site configuration
+future: true
 profile: true
-incremental: true
 livereload: true
-time_zone: Asia/Katmandul
+time_zone: Asia/Kathmandu
 destination: public
 source:
 markdown: kramdown
@@ -52,5 +56,7 @@ kramdown:
   hard_wrap : false
   input: GFM
   auto_ids: true
-hightlighter: rouge
+  syntax_highlighter_opts:
+      disable : true
+highlighter: none
 excludes: [ README.md, node_modules, Gemfile*, "LICENSE", ]

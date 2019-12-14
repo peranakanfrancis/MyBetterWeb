@@ -36,9 +36,13 @@ layout: compress
 
     </header>
 
+<<<<<<< HEAD
     {% include facebook-sdk.html %}
 
     <div class="content">
+=======
+    {<div class="content">
+>>>>>>> 017c104b4af706f505b0125b31a149743ce17caf
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
@@ -72,15 +76,11 @@ layout: compress
                             </div>
                             {{ post.content }}
                             <div class="sharethis-inline-reaction-buttons"></div>
-                        </div>
+                          <div>
                     </div>
                 </div>
             </div>
             {% endfor %}
-            {% if page.comments %}
-            {% include disqus %}
-            {% endif %}
-
             <!-- /cards -->
         </div>
     </div>

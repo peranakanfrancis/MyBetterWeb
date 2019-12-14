@@ -32,6 +32,19 @@ date:   2018-06-10 12:12:12
 </form>
 </div>
 
+      <div class="paypal-button" id="paypal-plan-container"></div>
+      <script>
+          paypal.Buttons({
+             createSubscription: function(data, actions) {
+               return actions.subscription.create({
+                 'plan_id': 'P-50L08135RP134160DLXQA4YI'
+               });
+             },
+             onApprove: function(data, actions) {
+               alert(data.subscriptionID);
+             }
+          }).render('#paypal-plan-container');
+   </script>
 ## Email marketing helps to fly above your competitors
 In today world, when a person wants to buy any product or service, the first thing they will do is going online to collect the information about the product or service. So, it is very important for every business to appear in online searches in order to maximize the business. And email marketing is one of the effective tools in reaching your existing and potential customers with necessary information about your products or services. Globally businesses are using this technique in order to grow the business and create their online existence.
 
