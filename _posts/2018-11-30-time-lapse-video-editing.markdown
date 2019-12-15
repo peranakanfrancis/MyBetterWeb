@@ -12,10 +12,10 @@ date:   2018-11-30 12:12:12
 <div style="text-align: right">
 <h3>Price: $200 / MYR800 per task</h3></div>
 <div align="right">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="6FZZKHGH7PXJJ">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="hidden" name="hosted_button_id" value="ABFXQ59CFNJSW">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>

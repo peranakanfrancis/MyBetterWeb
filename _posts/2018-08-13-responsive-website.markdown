@@ -18,17 +18,17 @@ date:   2018-08-13 12:12:12
 <div style="text-align: right">
 <h3>Price: from $450 / MYR1800</h3></div>
 <div align="right">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="F8JHFYXCCQX2S">
+<input type="hidden" name="hosted_button_id" value="6HNRHLEYVMLHJ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Hosting Plans">Hosting Plans</td></tr><tr><td><select name="os0">
-	<option value="only Website without Hosting">only Website without Hosting $450.00 USD</option>
-	<option value="with 1 year Hosting">with 1 year Hosting $500.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Packages">Packages</td></tr><tr><td><select name="os0">
+	<option value="Website only">Website only RM1,800.00 MYR</option>
+	<option value="Website with Hosting">Website with Hosting RM2,000.00 MYR</option>
 </select> </td></tr>
 </table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="hidden" name="currency_code" value="MYR">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>

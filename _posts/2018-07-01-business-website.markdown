@@ -10,19 +10,19 @@ date:   2018-07-01 12:12:12
 "The overall design and functionality far exceeds my expectations. Your dedication, constant engagement, and responsiveness made the process easy. You really went above and beyond! I’m already looking forward to having you build my next site." -<a href="https://thapa.coffee" target="_blank"><i> thapa.coffee</i></a>
 
 <div style="text-align: right">
-<h3>Price: from $550 / MYR2300</h3></div>
+<h3>Price: from $550 / MYR2200</h3></div>
 <div align="right">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="V7RUYG9WTASGC">
+<input type="hidden" name="hosted_button_id" value="8B7CC6SAFYXNQ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Business Website Development">Hosting Plans</td></tr><tr><td><select name="os0">
-	<option value="only Website without Hosting">only Website without Hosting $550.00 USD</option>
-	<option value="1 year Hosting">1 year Hosting $600.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Packages">Packages</td></tr><tr><td><select name="os0">
+	<option value="Website only">Website only RM2,200.00 MYR</option>
+	<option value="Website with Hosting">Website with Hosting RM2,400.00 MYR</option>
 </select> </td></tr>
 </table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="hidden" name="currency_code" value="MYR">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>

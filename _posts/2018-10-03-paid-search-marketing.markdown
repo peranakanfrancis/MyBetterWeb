@@ -16,19 +16,19 @@ date: "2018-10-03 12:12:12"
 - Detailed reporting and monthly meeting
 
 <div style="text-align: right">
-<h3>Price: from $500 / MYR2100 per month</h3></div>
+<h3>Price: from $500 / MYR2000 per month</h3></div>
 <div align="right">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="QWE9LZ6F9Z3QY">
+<input type="hidden" name="hosted_button_id" value="DR3FHNFAR9KYE">
 <table>
-<tr><td><input type="hidden" name="on0" value="Paid Search Marketing Package">Paid Search Marketing Package</td></tr><tr><td><select name="os0">
-	<option value="Basic">Basic $500.00 USD</option>
-	<option value="Advance">Advance $750.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Packages">Packages</td></tr><tr><td><select name="os0">
+	<option value="Basic">Basic RM2,000.00 MYR</option>
+	<option value="Advanced">Advanced RM3,000.00 MYR</option>
 </select> </td></tr>
 </table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="hidden" name="currency_code" value="MYR">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
