@@ -10,7 +10,7 @@ gem "pry"
 gem "pry-rescue"
 gem "pry-stack_explorer"
 gem "pry-doc"
-gem "debug_inspector", "<= 0.0.2"
+gem "debug_inspector", "<= 0.0.3"
 
 group :jekyll_plugins do
     gem "jekyll-feed"
